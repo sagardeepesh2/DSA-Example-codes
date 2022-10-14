@@ -1,0 +1,11 @@
+#include<bits/stdc++.h>
+using namespace std;
+int main(){
+int a,b;
+cin>>a>>b;
+cout<<"add of 2 number "<<a<<" and "<<b<<"is "<<a+b<<endl;
+cout<<"multiplication of 2 number "<<a<<" and "<<b<<"is "<<a*b<<endl;
+cout<<"subtraction of 2 number "<<a<<" and << b<<"is "<<b-a<<endl;
+
+return 0;
+}
